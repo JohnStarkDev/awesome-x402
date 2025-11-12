@@ -98,6 +98,7 @@ x402 is an emerging open standard from the Coinbase ecosystem focused on safer, 
 - [Customize Your x402 Paywalls – Koha](https://x.com/kohawithstuff/status/1982521924287943148) – 41-second video by Koha showing how to set up and customize x402 paywalls.
 - [Building Apps and Agents with x402 – EigenCloud Broadcast](https://x.com/i/broadcasts/1OwxWerawqAGQ) – X broadcast with Dhaiwat and EigenCloud on building AI agents using x402.
 - [x402 Explained in 100 Seconds – Nader Dabit](https://x.com/dabit3/status/1982483131979735078) – Nader Dabit breaks down x402's purpose and shares key developer resources.
+- [How to build x402 apps in 7 minutes with x402 Starter Kit ⚡️](https://x.com/dabit3/status/1988350949556170875) Nader Dabit breaks down How to build x402 apps in 7 minutes with x402 Starter Kit ⚡️
 
 ### Podcasts & Media
 - [Cognitive Revolution Podcast – "402 Payment Required"](https://www.cognitiverevolution.ai/402-payment-required-a-new-way-for-ai-agents-to-pay-with-nemil-dalal-dev-platform-lead-coinbase/)
